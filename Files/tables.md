@@ -1,18 +1,18 @@
 # Tables
 
-# Table 1
+## Table 1
 
 | Nome | Age |
 |------|-----|
 |Charles| 31 |
 
-# Table 2
+## Table 2
 
 | Name | Age | Occupation |
 |------|-----| -----------|
 |Charles| 31 | Developer |
 
-# Alignment Text Table
+## Alignment Text Table
 
 | Name | Age | Occupation |
 | :----|:---:| ----------:|
